@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Jhon Quispe",
+	"description":"Un proyecto de introduccion",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
